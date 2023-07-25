@@ -1,0 +1,4 @@
+[2023-07-07T14:53:00.759] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'join') 
+[2023-07-07T14:53:29.069] [ERROR] error - QueryFailedError: ER_BAD_NULL_ERROR: Column 'requestUrls' cannot be null 
+[2023-07-07T14:55:07.713] [ERROR] error - QueryFailedError: ER_BAD_NULL_ERROR: Column 'requestUrls' cannot be null 
+[2023-07-07T14:57:23.617] [ERROR] error - QueryFailedError: ER_BAD_NULL_ERROR: Column 'requestUrls' cannot be null 

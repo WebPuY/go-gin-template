@@ -1,0 +1,8 @@
+[production]
+port = ":3001"
+
+[testing]
+port = ":3001"
+
+[dev]
+port = ":8088"

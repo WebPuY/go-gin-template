@@ -1,0 +1,45 @@
+[2023-07-06T14:36:44.912] [ERROR] error - EntityColumnNotFound: No entity column "requirementLabel" was found. 
+[2023-07-06T15:01:52.481] [ERROR] error - Error: 资源不存在 
+[2023-07-06T15:01:56.591] [ERROR] error - Error: 资源不存在 
+[2023-07-06T15:02:05.292] [ERROR] error - Error: 资源不存在 
+[2023-07-06T15:02:18.706] [ERROR] error - Error: 资源不存在 
+[2023-07-06T15:03:07.075] [ERROR] error - Error: 资源不存在 
+[2023-07-06T15:03:41.475] [ERROR] error - Error: 资源不存在 
+[2023-07-06T15:37:24.201] [ERROR] error - Error: 资源不存在 
+[2023-07-06T15:37:26.830] [ERROR] error - Error: 资源不存在 
+[2023-07-06T15:38:06.960] [ERROR] error - QueryFailedError: ER_NO_DEFAULT_FOR_FIELD: Field 'requirementId' doesn't have a default value 
+[2023-07-06T16:15:42.187] [ERROR] error - Error: 资源不存在 
+[2023-07-06T16:15:55.971] [ERROR] error - TypeORMError: Cannot update entity because entity id is not set in the entity. 
+[2023-07-06T16:17:27.930] [ERROR] error - TypeORMError: Cannot update entity because entity id is not set in the entity. 
+[2023-07-06T16:18:56.325] [ERROR] error - TypeORMError: Cannot update entity because entity id is not set in the entity. 
+[2023-07-06T16:19:47.648] [ERROR] error - TypeORMError: Cannot update entity because entity id is not set in the entity. 
+[2023-07-06T17:27:20.160] [ERROR] error - QueryFailedError: ER_PARSE_ERROR: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ':id' at line 1 
+[2023-07-06T17:30:37.515] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'map') 
+[2023-07-06T17:32:10.164] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'map') 
+[2023-07-06T17:33:48.053] [ERROR] error - QueryFailedError: ER_BAD_FIELD_ERROR: Unknown column 'uotbk3' in 'where clause' 
+[2023-07-06T17:37:57.004] [ERROR] error - QueryFailedError: ER_BAD_FIELD_ERROR: Unknown column 'uotbk3' in 'where clause' 
+[2023-07-06T17:41:24.773] [ERROR] error - Error: 资源不存在 
+[2023-07-06T17:42:21.587] [ERROR] error - Error: 资源不存在 
+[2023-07-06T17:46:45.712] [ERROR] error - Error: 资源不存在 
+[2023-07-06T17:47:43.863] [ERROR] error - 接口 GET -> /apifunction%20prefix(id)%20%7B%20%20return%20Object(_utils_utils__WEBPACK_IMPORTED_MODULE_3__[%22isIdNaN%22])(id)%20?%20%27/trpRequirements%27%20:%20%27/requirements%27;}/159 无效 
+[2023-07-06T17:47:43.984] [ERROR] error - 接口 GET -> /apifunction%20prefix(id)%20%7B%20%20return%20Object(_utils_utils__WEBPACK_IMPORTED_MODULE_3__[%22isIdNaN%22])(id)%20?%20%27/trpRequirements%27%20:%20%27/requirements%27;}/uotbk3 无效 
+[2023-07-06T17:48:21.888] [ERROR] error - Error: 资源不存在 
+[2023-07-06T17:49:41.870] [ERROR] error - Error: 资源不存在 
+[2023-07-06T17:51:11.689] [ERROR] error - Error: 资源不存在 
+[2023-07-06T17:51:51.497] [ERROR] error - Error: 资源不存在 
+[2023-07-06T17:52:03.189] [ERROR] error - Error: 资源不存在 
+[2023-07-06T17:52:08.534] [ERROR] error - Error: 资源不存在 
+[2023-07-06T17:52:57.655] [ERROR] error - 接口 GET -> /apifunction%20prefix(id)%20%7B%20%20return%20Object(_utils_utils__WEBPACK_IMPORTED_MODULE_3__[%22isIdNaN%22])(id)%20?%20%27/trpRequirements%27%20:%20%27/requirements%27;}/uotbk3 无效 
+[2023-07-06T17:52:57.685] [ERROR] error - 接口 GET -> /apifunction%20prefix(id)%20%7B%20%20return%20Object(_utils_utils__WEBPACK_IMPORTED_MODULE_3__[%22isIdNaN%22])(id)%20?%20%27/trpRequirements%27%20:%20%27/requirements%27;}/159 无效 
+[2023-07-06T17:53:00.976] [ERROR] error - 接口 GET -> /apifunction%20prefix(id)%20%7B%20%20return%20Object(_utils_utils__WEBPACK_IMPORTED_MODULE_3__[%22isIdNaN%22])(id)%20?%20%27/trpRequirements%27%20:%20%27/requirements%27;}/159 无效 
+[2023-07-06T17:54:41.063] [ERROR] error - 接口 GET -> /apifunction%20prefix(id)%20%7B%20%20var%20str%20=%20'';%20%20if%20(Object(_utils_utils__WEBPACK_IMPORTED_MODULE_3__[%22isIdNaN%22])(id))%20%7B%20%20%20%20str%20=%20'/trpRequirements';%20%20%7D%20else%20%7B%20%20%20%20str%20=%20'/requirements';%20%20%7D%20%20return%20str;%7D/159 无效 
+[2023-07-06T17:54:41.193] [ERROR] error - 接口 GET -> /apifunction%20prefix(id)%20%7B%20%20var%20str%20=%20'';%20%20if%20(Object(_utils_utils__WEBPACK_IMPORTED_MODULE_3__[%22isIdNaN%22])(id))%20%7B%20%20%20%20str%20=%20'/trpRequirements';%20%20%7D%20else%20%7B%20%20%20%20str%20=%20'/requirements';%20%20%7D%20%20return%20str;%7D/uotbk3 无效 
+[2023-07-06T17:55:07.315] [ERROR] error - 接口 GET -> /apifunction%20prefix(id)%20%7B%20%20var%20str%20=%20'';%20%20if%20(Object(_utils_utils__WEBPACK_IMPORTED_MODULE_3__[%22isIdNaN%22])(id))%20%7B%20%20%20%20str%20=%20'/trpRequirements';%20%20%7D%20else%20%7B%20%20%20%20str%20=%20'/requirements';%20%20%7D%20%20return%20str;%7D/159 无效 
+[2023-07-06T17:55:07.536] [ERROR] error - 接口 GET -> /apifunction%20prefix(id)%20%7B%20%20var%20str%20=%20'';%20%20if%20(Object(_utils_utils__WEBPACK_IMPORTED_MODULE_3__[%22isIdNaN%22])(id))%20%7B%20%20%20%20str%20=%20'/trpRequirements';%20%20%7D%20else%20%7B%20%20%20%20str%20=%20'/requirements';%20%20%7D%20%20return%20str;%7D/uotbk3 无效 
+[2023-07-06T17:56:11.681] [ERROR] error - Error: 资源不存在 
+[2023-07-06T17:56:50.372] [ERROR] error - Error: 资源不存在 
+[2023-07-06T17:57:06.755] [ERROR] error - Error: 资源不存在 
+[2023-07-06T17:57:13.283] [ERROR] error - Error: 资源不存在 
+[2023-07-06T17:58:05.707] [ERROR] error - Error: 资源不存在 
+[2023-07-06T18:04:39.046] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'join') 
+[2023-07-06T18:07:10.709] [ERROR] error - TypeError: Cannot read properties of undefined (reading 'join') 
